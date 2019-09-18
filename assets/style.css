@@ -1,0 +1,20 @@
+/* Nav Bar */
+       
+nav {
+    background-color: #fff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    border-radius: 4px;
+    
+}
+
+/* header links */
+nav a {
+    float: left;
+    color: #e2e2e2;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 25px;
+    border-radius: 4px;
+}
